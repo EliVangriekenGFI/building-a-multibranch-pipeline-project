@@ -1,0 +1,4 @@
+major_version=1.0.0
+minor_version=
+git_hash=1632aa2
+built=2018-01-15:15:30:14
